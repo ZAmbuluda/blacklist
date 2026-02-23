@@ -15,5 +15,4 @@ return {
     "Marda_464",
     "kakakakkakau37",
     "CADUUUU123290",
-    "BobyDu009",
 }
