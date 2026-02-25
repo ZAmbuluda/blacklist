@@ -63,5 +63,6 @@ return {
     "hdhdhdhdhhd7ru",
     "CADUZINNN7273",
     "Josezimmm123290",
+    "Arthurzim123290",
     "CADUUU188182",
 }
