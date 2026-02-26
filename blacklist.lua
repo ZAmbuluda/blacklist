@@ -2,6 +2,7 @@ return {
     "Iluvfood_834",
     "Chicken nugget",
     "Aresenalfooty",
+    "legittrader678",
     "ZYAD23212321",
     "PrankoyGaming",
     "CoisasDoEnzo7",
