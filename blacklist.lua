@@ -1,6 +1,7 @@
 return {
     "Iluvfood_834",
     "Chicken nugget",
+    "Aresenalfooty",
     "PrankoyGaming",
     "CoisasDoEnzo7",
     "bananay82338",
