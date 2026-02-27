@@ -8,6 +8,7 @@ return {
     "joserebeka",
     "bamychoc1",
     "ZYAD23212321",
+    "phelwans_juggler",
     "Lafrenchekebabl",
     "PrankoyGaming",
     "CoisasDoEnzo7",
