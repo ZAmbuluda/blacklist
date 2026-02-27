@@ -6,7 +6,6 @@ return {
     "Chehhh_2012",
     "OMGitsvoid8",
     "joserebeka",
-    "drylluv",
     "bamychoc1",
     "ZYAD23212321",
     "Lafrenchekebabl",
