@@ -24,6 +24,7 @@ return {
     "mustafwan",
     "24k_chrisstoplaying",
     "iloveayran75556",
+    "gohst_goat8273king83",
     "XxDeathxXx111",
     "Nikola357xd",
     "irijrjriidjd",
