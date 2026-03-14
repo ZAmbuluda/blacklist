@@ -11,7 +11,7 @@ return {
     "sjjejejs45",
     "OMGitsvoid8",
     "joserebeka",
-    "uniaodebrainrot2",
+    "uniaodebrainrot",
     "bamychoc1",
     "ZYAD23212321",
     "phelwans_juggler",
